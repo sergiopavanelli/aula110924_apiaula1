@@ -1,26 +1,52 @@
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\bin\Debug\net8.0\appsettings.Development.json
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\bin\Debug\net8.0\appsettings.json
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\bin\Debug\net8.0\ApiAula1.exe
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\bin\Debug\net8.0\ApiAula1.deps.json
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\bin\Debug\net8.0\ApiAula1.runtimeconfig.json
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\bin\Debug\net8.0\ApiAula1.dll
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\bin\Debug\net8.0\ApiAula1.pdb
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\obj\Debug\net8.0\ApiAula1.GeneratedMSBuildEditorConfig.editorconfig
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\obj\Debug\net8.0\ApiAula1.AssemblyInfoInputs.cache
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\obj\Debug\net8.0\ApiAula1.AssemblyInfo.cs
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\obj\Debug\net8.0\ApiAula1.csproj.CoreCompileInputs.cache
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\obj\Debug\net8.0\ApiAula1.MvcApplicationPartsAssemblyInfo.cache
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\obj\Debug\net8.0\ApiAula1.sourcelink.json
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\obj\Debug\net8.0\staticwebassets.build.json
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\obj\Debug\net8.0\staticwebassets.development.json
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\obj\Debug\net8.0\staticwebassets\msbuild.ApiAula1.Microsoft.AspNetCore.StaticWebAssets.props
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiAula1.props
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiAula1.props
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiAula1.props
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\obj\Debug\net8.0\staticwebassets.pack.json
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\obj\Debug\net8.0\scopedcss\bundle\ApiAula1.styles.css
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\obj\Debug\net8.0\ApiAula1.dll
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\obj\Debug\net8.0\refint\ApiAula1.dll
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\obj\Debug\net8.0\ApiAula1.pdb
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\obj\Debug\net8.0\ApiAula1.genruntimeconfig.cache
-E:\00 VSCode\UniBH_aulas\aula110924\ApiAula1\obj\Debug\net8.0\ref\ApiAula1.dll
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/bin/Debug/net8.0/appsettings.Development.json
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/bin/Debug/net8.0/appsettings.json
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/bin/Debug/net8.0/ApiAula1.exe
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/bin/Debug/net8.0/ApiAula1.deps.json
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/bin/Debug/net8.0/ApiAula1.runtimeconfig.json
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/bin/Debug/net8.0/ApiAula1.dll
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/bin/Debug/net8.0/ApiAula1.pdb
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/obj/Debug/net8.0/ApiAula1.GeneratedMSBuildEditorConfig.editorconfig
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/obj/Debug/net8.0/ApiAula1.AssemblyInfoInputs.cache
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/obj/Debug/net8.0/ApiAula1.AssemblyInfo.cs
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/obj/Debug/net8.0/ApiAula1.csproj.CoreCompileInputs.cache
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/obj/Debug/net8.0/ApiAula1.MvcApplicationPartsAssemblyInfo.cache
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/obj/Debug/net8.0/ApiAula1.sourcelink.json
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/obj/Debug/net8.0/staticwebassets.build.json
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/obj/Debug/net8.0/staticwebassets.development.json
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/obj/Debug/net8.0/staticwebassets/msbuild.ApiAula1.Microsoft.AspNetCore.StaticWebAssets.props
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/obj/Debug/net8.0/staticwebassets/msbuild.build.ApiAula1.props
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ApiAula1.props
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ApiAula1.props
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/obj/Debug/net8.0/staticwebassets.pack.json
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/obj/Debug/net8.0/scopedcss/bundle/ApiAula1.styles.css
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/obj/Debug/net8.0/ApiAula1.dll
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/obj/Debug/net8.0/refint/ApiAula1.dll
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/obj/Debug/net8.0/ApiAula1.pdb
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/obj/Debug/net8.0/ApiAula1.genruntimeconfig.cache
+E:/00 VSCode/UniBH_aulas/aula110924/ApiAula1/obj/Debug/net8.0/ref/ApiAula1.dll
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/bin/Debug/net8.0/appsettings.Development.json
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/bin/Debug/net8.0/appsettings.json
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/bin/Debug/net8.0/ApiAula1
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/bin/Debug/net8.0/ApiAula1.deps.json
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/bin/Debug/net8.0/ApiAula1.runtimeconfig.json
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/bin/Debug/net8.0/ApiAula1.dll
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/bin/Debug/net8.0/ApiAula1.pdb
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/obj/Debug/net8.0/ApiAula1.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/obj/Debug/net8.0/ApiAula1.AssemblyInfoInputs.cache
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/obj/Debug/net8.0/ApiAula1.AssemblyInfo.cs
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/obj/Debug/net8.0/ApiAula1.csproj.CoreCompileInputs.cache
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/obj/Debug/net8.0/ApiAula1.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/obj/Debug/net8.0/ApiAula1.sourcelink.json
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/obj/Debug/net8.0/staticwebassets.build.json
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/obj/Debug/net8.0/staticwebassets.development.json
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/obj/Debug/net8.0/staticwebassets/msbuild.ApiAula1.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/obj/Debug/net8.0/staticwebassets/msbuild.build.ApiAula1.props
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ApiAula1.props
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ApiAula1.props
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/obj/Debug/net8.0/staticwebassets.pack.json
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/obj/Debug/net8.0/scopedcss/bundle/ApiAula1.styles.css
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/obj/Debug/net8.0/ApiAula1.dll
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/obj/Debug/net8.0/refint/ApiAula1.dll
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/obj/Debug/net8.0/ApiAula1.pdb
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/obj/Debug/net8.0/ApiAula1.genruntimeconfig.cache
+/Volumes/WD Elements/UniBH_wd/00 UniBH_aulas_VS/aula110924_api/aula110924_apiaula1/obj/Debug/net8.0/ref/ApiAula1.dll

@@ -16,4 +16,6 @@ app.MapGet("/hello", (string name) =>
 
 app.Run();
 
-// http://localhost:{port}/hello?name=Montanha
+// http://localhost:{port}/hello?name=Serjão
+
+// teste mac
